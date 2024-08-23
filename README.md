@@ -5,7 +5,7 @@ Hi there! I'm [Mr-uclml](https://github.com/mr-uclml), a passionate developer lo
 
 ## 🛠️ Projects
 
-### 1. Project One - [Xvpn](https://github.com/mr-uclml/xvpn)
+### 1. Project One - [Xvpn](https://github.com/mr-uclml/xvpn) - [![xvpn](https://img.shields.io/badge/WEB-Go%20to%20the%20website%20now-blue)](https://mr-uclml.github.io/xvpn/)
 ![Project One](https://img.freepik.com/fotos-premium/banner-de-protocolo-de-rede-privada-virtual-vpn-seguranca-cibernetica-e-tecnologia-de-conexao-de-privacidade-foto-anonima-do-conceito-de-internet_526934-6406.jpg)
 
 ```bash
@@ -18,7 +18,7 @@ Free access to a large source of vmess, vless, trojan nodes with updates in seco
 ```bash
 Creating a national code and verifying their validity (for Iranians)
 ```
-[![xvpn](https://img.shields.io/badge/WEB-Go%20to%20the%20website%20now-blue)](https://mr-uclml.github.io/xvpn/)
+
 
 
 ### 3. Project Three - [All-Country-Flags](https://github.com/mr-uclml/All-Country-Flags)
