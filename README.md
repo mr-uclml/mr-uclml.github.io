@@ -1,4 +1,4 @@
-# 🌟 Welcome to My GitHub Profile,
+# 🌟 Welcome to My GitHub Profile
 Hi there! I'm [Mr-uclml](https://github.com/mr-uclml), a passionate developer looking to discover and learn new things and share them with you. Feel free to explore and don't hesitate to reach out if you have any questions!
 
 ---
